@@ -1,4 +1,15 @@
 .mt-30{
     margin-top: 30px;
-};
-
+}
+.card-text{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+#result{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+.bg-cool{
+    background-color: rgb(81, 238, 238);
+    padding: 100px;
+}
